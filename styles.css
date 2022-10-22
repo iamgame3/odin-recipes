@@ -3,3 +3,25 @@ h1 {
     font-weight: 900;
     text-align: center;
 }
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+ul {
+    font-family: 'Courier New', sans-serif;
+}
+
+h2 {
+    background-color: #0000ff;
+    font-weight: 900;
+    text-align: center;
+    color: #ffffff;
+}
+
+h3 {
+    background-color: #008000;
+    font-weight: 900;
+    text-align: center;
+}
