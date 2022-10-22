@@ -25,3 +25,15 @@ h3 {
     font-weight: 900;
     text-align: center;
 }
+
+ol {
+    text-decoration: underline #800080;
+}
+
+p {
+    border: thick double #ffd700;
+}
+
+li {
+    color: #ff4500;
+}
